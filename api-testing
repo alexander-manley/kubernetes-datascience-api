@@ -1,3 +1,3 @@
-Launch an API test runner:
-docker run --rm --name hoppscotch -p 3000:3000 hoppscotch/hoppscotch:latest
+Launch the API testing interface:
+podman run --rm --name hoppscotch -p 3000:3000 hoppscotch/hoppscotch:latest
 https://github.com/hoppscotch/hoppscotch
