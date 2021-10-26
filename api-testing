@@ -1,3 +1,11 @@
 Launch the API testing interface:
+
+# Windows desktop
+
+nerdctl run --rm --name hoppscotch -p 3000:3000 hoppscotch/hoppscotch:latest
+
+# Linux / WSL:
+
 podman run --rm --name hoppscotch -p 3000:3000 hoppscotch/hoppscotch:latest
+
 https://github.com/hoppscotch/hoppscotch
