@@ -6,3 +6,5 @@ Matplotlib
 
 https://github.com/matplotlib/matplotlib/releases
 
+Seaborn
+https://github.com/mwaskom/seaborn/releases
