@@ -5,10 +5,16 @@ Modin Endpoint upstream (Dask & Ray backends):
 
 https://github.com/modin-project/modin/releases
 
-Pyspark & SparkR Endpoint upstream: https://github.com/apache/spark/tags
+Pyspark & SparkR Endpoint upstream: 
 
-Sparkling-Water (H20ai) upstream: https://github.com/h2oai/sparkling-water/tags
+https://github.com/apache/spark/tags
 
-RAPIDS Endpoint upstream: https://github.com/rapidsai/cuml/releases/tag/v21.10.00
+Sparkling-Water (H20ai) upstream: 
+
+https://github.com/h2oai/sparkling-water/tags
+
+RAPIDS Dask Endpoint upstream: 
+
+https://github.com/rapidsai/cuml/releases/tag/v21.10.00
 
 *Contact developer lead Alexander Manley for access.*
