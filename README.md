@@ -1,5 +1,5 @@
 # kubernetes-spark-api
-Custom Apache Spark backed GraphQL and REST API endpoints for Web, Python, R, and Java clients.
+Custom ML abstractions (Modin, H20, Spark...) backed GraphQL and REST API endpoints for Web, Python, R, and Java clients.
 
 #
 
