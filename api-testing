@@ -9,3 +9,7 @@ nerdctl run --rm --name hoppscotch -p 3000:3000 hoppscotch/hoppscotch:latest
 podman run --rm --name hoppscotch -p 3000:3000 hoppscotch/hoppscotch:latest
 
 https://github.com/hoppscotch/hoppscotch
+
+
+Load test:
+https://hub.docker.com/r/locustio/locust/tags
