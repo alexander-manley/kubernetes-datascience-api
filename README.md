@@ -1,7 +1,9 @@
 # kubernetes-spark-api
 Custom Apache Spark backed GraphQL and REST API endpoints for Web, Python, R, and Java clients.
 
-Modin Endpoint upstream: https://github.com/modin-project/modin/releases
+Modin Endpoint upstream (Dask & Ray backends):
+
+https://github.com/modin-project/modin/releases
 
 Pyspark & SparkR Endpoint upstream: https://github.com/apache/spark/tags
 
