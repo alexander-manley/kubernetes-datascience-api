@@ -17,7 +17,7 @@ GraphQL API
 
 Serve Models
 
-Host documentation
+Documentation
 
 Search
 
